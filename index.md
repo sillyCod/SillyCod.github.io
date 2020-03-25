@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这是我的第一篇Github博客
 
 You can use the [editor on GitHub](https://github.com/sillyCod/SillyCod.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
